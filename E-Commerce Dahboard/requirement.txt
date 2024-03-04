@@ -1,3 +1,21 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import streamlit as st
+from babel.numbers import format_currency
+import textwrap
+import altair as alt
+import plotly.express as px
+
+numpy==1.25.2
+pandas==2.1.0
+matplotlib==3.7.3
+seaborn==0.12.2
+
+# github link
+https://github.com/sffnhnr/E-Commerce-Dashboard-using-streamlit.git
+
+
 # Description
 db.py -> E-Commerce Dashboard
 projekanalisisdata.ipyb -> source code analysis
